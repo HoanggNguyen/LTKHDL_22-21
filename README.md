@@ -2,7 +2,7 @@
 
 ---
 ## ĐỒ ÁN CUỐI KÌ
-### PHÂN TÍCH TÌNH HÌNH BỆNH LÍ <br> XÂY DỰNG MÔ HÌNH DỰ ĐOÁN
+### PHÂN TÍCH TÌNH HÌNH BỆNH LÍ, XÂY DỰNG MÔ HÌNH DỰ ĐOÁN
 
 
 ## Thông tin nhóm
