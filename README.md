@@ -1,6 +1,5 @@
 # <center>LẬP TRÌNH KHOA HỌC DỮ LIỆU</center>
 
----
 ## ĐỒ ÁN CUỐI KÌ
 ### PHÂN TÍCH TÌNH HÌNH BỆNH LÍ, XÂY DỰNG MÔ HÌNH DỰ ĐOÁN
 
@@ -20,8 +19,6 @@
 ### Giảng viên hướng dẫn: 
 #### **Thầy Phạm Trọng Nghĩa**
 #### **Thầy Vũ Công Thành**
-
----
 
 ## Nội dung
 1. [Giới thiệu](#introdution)  
@@ -45,28 +42,26 @@
 4. [Tự đánh giá](#reflection)  
 5. [Tham khảo](#references)  
 
----
 ## Phân công
 #### Link: [**Phân công công việc**](https://docs.google.com/spreadsheets/d/1LFgHiE4LrsdKKONrlz3Dx75mgC28t3EZAGVVMmRnEes/edit?fbclid=IwY2xjawHLI99leHRuA2FlbQIxMAABHdmqChAUwiNuHKush4gsy9TejRrbWguKtTCfDWnIyajlrORcCFAkcnXngQ_aem_GujmZPLFKWAIWjjX9vS1pw&gid=0#gid=0)
 
----
 ## Nguồn
 #### Dữ liệu
 ##### Nguồn: [**Indicators of Heart Disease (2022 UPDATE)**](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data)
 #### Tham khảo
 
-[1] [**Những di chứng nguy hiểm do hậu COVID-19 ít ai ngờ tới**](https://medlatec.vn/tin-tuc/nhung-di-chung-nguy-hiem-do-hau-covid19-it-ai-ngo-toi-s194-n27545#:~:text=Theo%20c%C3%A1c%20chuy%C3%AAn%20gia%20y,%2C%20%C4%91%C3%B4ng%20m%C3%A1u%2C...)
+[1] [Những di chứng nguy hiểm do hậu COVID-19 ít ai ngờ tới](https://medlatec.vn/tin-tuc/nhung-di-chung-nguy-hiem-do-hau-covid19-it-ai-ngo-toi-s194-n27545#:~:text=Theo%20c%C3%A1c%20chuy%C3%AAn%20gia%20y,%2C%20%C4%91%C3%B4ng%20m%C3%A1u%2C...)
 
-[2] [**Những người dễ bị đột quỵ thường mắc 9 thói quen xấu này**](https://baosoctrang.org.vn/suc-khoe-va-doi-song/202411/nhung-nguoi-de-bi-dot-quy-thuong-mac-9-thoi-quen-xau-nay-5e00fab/)
+[2] [Những người dễ bị đột quỵ thường mắc 9 thói quen xấu này](https://baosoctrang.org.vn/suc-khoe-va-doi-song/202411/nhung-nguoi-de-bi-dot-quy-thuong-mac-9-thoi-quen-xau-nay-5e00fab/)
 
-[4] [**Học về cây quyết định (Decision tree)**](https://www.youtube.com/watch?v=_L39rN6gz7Y)
+[4] [Học về cây quyết định (Decision tree)](https://www.youtube.com/watch?v=_L39rN6gz7Y)
 
-[5] [**Học về rừng ngẫu nhiên (Random Forest)**](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+[5] [Học về rừng ngẫu nhiên (Random Forest)](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
 
-[6]  [**Các cách xử lí mất cân bằng dữ liệu**](https://www.youtube.com/watch?v=yLM0FXgQmxw)
+[6]  [Các cách xử lí mất cân bằng dữ liệu](https://www.youtube.com/watch?v=yLM0FXgQmxw)
 
-[7] [**Chỉ số BMI và cách tính toán theo chuẩn khu vực**](https://tinhbmi.vn/bang-bmi-chuan-chau-a/)
+[7] [Chỉ số BMI và cách tính toán theo chuẩn khu vực](https://tinhbmi.vn/bang-bmi-chuan-chau-a/)
 
-[8] [**Đột quỵ: Nguyên nhân, dấu hiệu nhận biết và cách phòng tránh**](https://www.vinmec.com/vie/bai-viet/dot-quy-nguyen-nhan-dau-hieu-nhan-biet-cach-phong-tranh-vi)
+[8] [Đột quỵ: Nguyên nhân, dấu hiệu nhận biết và cách phòng tránh](https://www.vinmec.com/vie/bai-viet/dot-quy-nguyen-nhan-dau-hieu-nhan-biet-cach-phong-tranh-vi)
 
-[9] [**Bệnh mãn tính: Các loại bệnh phổ biến và cách phòng ngừa**](https://www.docosan.com/blog/kien-thuc-y-te/benh-man-tinh/)
+[9] [Bệnh mãn tính: Các loại bệnh phổ biến và cách phòng ngừa](https://www.docosan.com/blog/kien-thuc-y-te/benh-man-tinh/)
