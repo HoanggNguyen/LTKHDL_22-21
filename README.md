@@ -1,8 +1,8 @@
 # <center>LẬP TRÌNH KHOA HỌC DỮ LIỆU</center>
 
 ---
-# ĐỒ ÁN CUỐI KÌ
-# PHÂN TÍCH TÌNH HÌNH BỆNH LÍ <br> XÂY DỰNG MÔ HÌNH DỰ ĐOÁN
+## ĐỒ ÁN CUỐI KÌ
+### PHÂN TÍCH TÌNH HÌNH BỆNH LÍ <br> XÂY DỰNG MÔ HÌNH DỰ ĐOÁN
 
 
 ## Thông tin nhóm
