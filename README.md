@@ -1,9 +1,9 @@
 # <center>LẬP TRÌNH KHOA HỌC DỮ LIỆU</center>
 
 ---
-<div style="text-align: center; background-color: #bd4f0a; font-family: 'Trebuchet MS', Arial, sans-serif; color: white; padding: 20px; font-size: 36px; font-weight: bold; border-radius: 0 0 0 0; box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);">
-  ĐỒ ÁN CUỐI KÌ: PHÂN TÍCH TÌNH HÌNH BỆNH LÍ <br> XÂY DỰNG MÔ HÌNH DỰ ĐOÁN
-</div>
+# ĐỒ ÁN CUỐI KÌ
+# PHÂN TÍCH TÌNH HÌNH BỆNH LÍ <br> XÂY DỰNG MÔ HÌNH DỰ ĐOÁN
+
 
 ## Thông tin nhóm
 <center>
