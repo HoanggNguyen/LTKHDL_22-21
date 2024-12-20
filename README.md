@@ -40,7 +40,20 @@
     3.5. [Câu hỏi 5](#question-5)  
     3.6. [Câu hỏi 6](#question-6)   
 4. [Tự đánh giá](#reflection)  
-5. [Tham khảo](#references)  
+5. [Tham khảo](#references)
+
+## Lời cảm ơn
+Nhóm chân thành cảm ơn những giảng viên đã dày công truyền đạt kiến thức và hướng dẫn nhóm trong quá trình học và thực hiện đồ án này.
+
+Nhóm xin gửi lời cảm ơn đến khoa Công nghệ thông tin, Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia TPHCM đã tạo điều kiện cho nhóm học tập và hoàn thành đồ án này.
+    
+Nhóm đã cố gắng vận dụng những kiến thức đã học được để hoàn thành đồ án. Nhưng việc chưa có nhiều kinh nghiệm và hạn chế trong kiến thức nên khó tránh khỏi những thiếu sót trong quá trình nghiên cứu và trình bày. 
+    
+Rất mong sự góp ý của quý Thầy để bài báo cáo của nhóm được hoàn thiện hơn. 
+    
+Nhóm xin trân trọng cảm ơn sự quan tâm giúp đỡ của Thầy trong suốt môn học này.
+    
+Xin trân trọng cảm ơn!
 
 ## Phân công
 #### Link: [**Phân công công việc**](https://docs.google.com/spreadsheets/d/1LFgHiE4LrsdKKONrlz3Dx75mgC28t3EZAGVVMmRnEes/edit?fbclid=IwY2xjawHLI99leHRuA2FlbQIxMAABHdmqChAUwiNuHKush4gsy9TejRrbWguKtTCfDWnIyajlrORcCFAkcnXngQ_aem_GujmZPLFKWAIWjjX9vS1pw&gid=0#gid=0)
